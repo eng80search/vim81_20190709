@@ -67,7 +67,7 @@ set backup
 set backupdir=~/_vim/backUp
 
 "viminfoファイルの設定を行う
-set viminfo+=n~/_vim/viminfo/viminfo.txt2
+set viminfo+=n~/_vim/viminfo/viminfo.txt
 
 "永続的にUndoを有効にする
 if has('persistent_undo')
